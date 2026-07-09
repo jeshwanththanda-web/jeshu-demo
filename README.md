@@ -1,4 +1,4 @@
 # jeshu-demo
 This is my first Git Repository.
 <br>
-Author-Jeshwanth Goud
+Author-Jeshwanth Goud(Apna collage)
